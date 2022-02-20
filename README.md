@@ -46,7 +46,7 @@ Publish the website in the given URL.
 </div>
 </div>
 <div class="footer">
-    DEVELOPED BY : MANOJ CHOUDHARY V
+    DEVELOPED BY : Mirudhula D
 </div>
 </body>
 ```
